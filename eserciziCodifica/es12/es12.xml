@@ -1,0 +1,115 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+
+<!-- slide 86 -->
+
+<TEI>
+    <facsimile>
+        <surface xml:id="page1" start="#page-1" ulx="3" uly="6" lrx="754" lry="510"> 
+            <graphic url='Bellini.png' width='758px' height='511px'/>
+            <zone xml:id="rett1" ulx="9" uly="16" lrx="368" lry="82">
+                <note>Rettangolo verde.</note>            
+            </zone>
+            <zone xml:id="rett2" ulx="9" uly="89" lrx="369" lry="292">
+                <note>Rettangolo celeste.</note>
+            </zone>
+            <zone xml:id="rett3" rotate="right" ulx="9" uly="300" lrx="367" lry="499">
+                <note>Rettangolo blu.</note>
+            </zone>
+            <zone xml:id="rett4" ulx="374" uly="10" lrx="746" lry="66">
+                <note>Rettangolo rosso.</note>
+            </zone>
+            <zone xml:id="rett5" ulx="404" uly="71" lrx="738" lry="489">
+                <note>Rettangolo arancione.</note>
+            </zone>
+            <zone xml:id="rett6" ulx="570" uly="458" lrx="740" lry="499">
+                <note>Rettangolo viola.</note>
+            </zone>
+        </surface>
+    </facsimile>
+    <text xml:lang="ita">
+        <body>
+            <div>
+                <pb facs="#page1" n="1" xml:id="page-1"/>
+                <p>Codifica lettera Bellini</p>
+            </div>
+            <div n="1">
+                <p facs="rett1"> 
+                <stamp>Timbro tagliato a metà</stamp>
+                </p>
+            </div>
+            <div n="2">
+                <salute>
+                <p facs="rett2" xml:lang="fr"> 
+                <stamp>Timbro di <placeName>Neuvilly</placeName></stamp>
+                    <lb xml:id="r2l1" n="1"/>
+                    à Monsieur
+                    <lb xml:id="r2l2" n="2"/>
+                    Monsieur le <roleName role="count">Comte</roleName> <persName>Pepoli</persName>Pepoli
+                    <lb xml:id="r2l3" n="3"/>
+                    <address>
+                        <addrLine>N <g ref="U+00B0">°</g><num>1</num><pc>:</pc></addrLine>
+                        <addrLine>passage des petits Pères</addrLine>
+                        <addrLine>à<placeName>Paris</placeName></addrLine>
+                    </address> 
+                </p>
+                </salute>
+            </div>
+            <div n="3">
+                <head>
+                <p facs="rett3">
+                <stamp>Timbro francese</stamp>
+                    <lb xml:id="r3l1" n="4"/>
+                    <num>27</num><pc>-</pc>
+                    <lb xml:id="r3l2" n="5"/>
+                    Lettera del
+                    <lb xml:id="r3l3" n="6"/>
+                    <persName>Bellini</persName> sul Duetto
+                    <lb xml:id="r3l4" n="7"/>
+                    del p <g ref="U+00B0">°</g><objectName>Atto dei Puritani</objectName> 
+                </p>
+                </head>
+            </div>
+            <div n="4" xml:lang="fr">
+                <p facs="rett4">
+                    <lb xml:id="r4l1" n="8"/>
+                    <date when="AAAA-06-26"> Juin 26</date><pc>:</pc> <placeName>Puteau</placeName><pc>-</pc>N<g ref="U+00B0">°</g><pc>:</pc><num type="cardinal">19</num> Bis rampe
+                    <lb xml:id="r4l2" n="9"/>
+                    <space extent="half the line"/>de <placeName>Neuill</placeName>
+                </p>
+            </div>
+            <div n="5">
+                <p facs="rett5"> 
+                    <lb xml:id="r5l1" n="10"/>
+                    Mio caro <persName>Carluccio</persName>
+                    <lb xml:id="r5l2" n="11"/>
+                    Avendo steso l'intero duetto
+                    <lb xml:id="r5l3" n="12"/>
+                    e mancando in esso qualche
+                    <lb xml:id="r5l4" n="13"/>
+                    cosetta<pc>,</pc> desidererei che tu 
+                    <lb xml:id="r5l5" n="14"/>
+                    t'<distinct type="archaic">incommodassi</distinct> a venire 
+                    <choice>
+                        <sic>à</sic>
+                        <corr>a</corr>
+                    </choice>
+                    <lb xml:id="r5l6" n="15"/>
+                    <placeName>Puteau</placeName> per tutto fissare<pc>,</pc> e
+                    <lb xml:id="r5l7" n="16"/>
+                    nell'<distinct type="archaic">istesso</distinct> tempo darmi la 
+                    <lb xml:id="r5l8" n="17"/>
+                    sortita di <persName>Rubini</persName><pc>,</pc> se è termi<pc>=</pc>
+                    <lb xml:id="r5l9" n="18" break="yes"/>
+                    nata<pc>.</pc> T'aspetto in questi giorni
+                    <lb xml:id="r5l10" n="19"/>
+                    ed in qual'ora vorrai <pc>-</pc> Addio          
+                </p>
+            </div>
+            <div n="6">
+                <p facs="rett6">
+                    <lb xml:id="r6l1" n="20"/> 
+                    Il tuo <persName>Vincenzillo</persName> </p>
+            </div>
+        </body>
+    </text>
+</TEI>
