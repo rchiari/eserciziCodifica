@@ -6,22 +6,22 @@
     <facsimile>
         <surface xml:id="page1" start="#page-1" ulx="3" uly="6" lrx="754" lry="510"> 
             <graphic url='Bellini.png' width='758px' height='511px'/>
-            <zone xml.id="rett1" ulx="9" uly="16" lrx="368" lry="82">
+            <zone xml:id="rett1" ulx="9" uly="16" lrx="368" lry="82">
                 <note>Rettangolo verde.</note>            
             </zone>
-            <zone xml.id="rett2" ulx="9" uly="89" lrx="369" lry="292">
+            <zone xml:id="rett2" ulx="9" uly="89" lrx="369" lry="292">
                 <note>Rettangolo celeste.</note>
             </zone>
-            <zone xml.id="rett3" rotate="right" ulx="9" uly="300" lrx="367" lry="499">
+            <zone xml:id="rett3" rotate="right" ulx="9" uly="300" lrx="367" lry="499">
                 <note>Rettangolo blu.</note>
             </zone>
-            <zone xml.id="rett4" ulx="374" uly="10" lrx="746" lry="66">
+            <zone xml:id="rett4" ulx="374" uly="10" lrx="746" lry="66">
                 <note>Rettangolo rosso.</note>
             </zone>
-            <zone xml.id="rett5" ulx="404" uly="71" lrx="738" lry="489">
+            <zone xml:id="rett5" ulx="404" uly="71" lrx="738" lry="489">
                 <note>Rettangolo arancione.</note>
             </zone>
-            <zone xml.id="rett6" ulx="570" uly="458" lrx="740" lry="499">
+            <zone xml:id="rett6" ulx="570" uly="458" lrx="740" lry="499">
                 <note>Rettangolo viola.</note>
             </zone>
         </surface>
