@@ -1,0 +1,64 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Senilità </title>
+            <respStmt>
+                <resp> Conversione TEI P5 a cura di </resp>
+                <name> Riccardo Chiari </name>
+            </respStmt>
+            </titleStmt>
+            <sourceDesc><bibl>
+                <title>Senilità: versione elettronica</title>
+                <author>Italo Svevo</author>
+                <publisher>Dall'Oglio</publisher>
+                <date>1971</date>
+            </bibl></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <text>
+        <front></front>
+        <body>
+            <div>
+                <p>Subito, con le prime parole che le rivolse, volle avvisarla che non intendeva compromettersi in una relazione troppo seria.</p>
+                <p>Parlò cioè a un <distinct>dipresso</distinct> così: <q>– T'amo molto e per il tuo bene desidero ci si metta d'accordo di andare molto cauti.</q></p>
+                <p><q>– La parola era tanto prudente ch'era difficile di crederla detta per amore altrui, e un po' più franca avrebbe dovuto suonare così:
+                – Mi piaci molto, ma nella mia vita non potrai essere <distinct>giammai</distinct> più importante di un giocattolo. Ho altri doveri io, la mia carriera, la mia famiglia.</q></p>
+            </div>
+            <div>
+                <p>La sua famiglia? Una sola sorella non ingombrante né fisicamente né moralmente, piccola e pallida, 
+                di qualche anno più giovane di lui, ma più vecchia per carattere o forse per destino.</p>
+                <p>Dei due, era lui l'egoista, il giovane; ella viveva per lui come una madre dimentica di se stessa, 
+                ma ciò non impediva a lui di parlarne come di un altro destino importante legato al suo e che pesava sul suo, e così,
+                sentendosi le spalle gravate di tanta responsabilità, egli traversava la vita cauto, lasciando da parte tutti i pericoli ma anche il godimento, la felicità.</p>
+                <p>A trentacinque anni si ritrovava nell'anima la brama insoddisfatta di piaceri e di amore, e già l'amarezza di non averne goduto,
+                e nel cervello una grande paura di se stesso e della debolezza del proprio carattere, invero piuttosto sospettata che saputa per esperienza.</p>
+            </div>
+
+            <div>
+                <p>La carriera di <name type="person">Emilio Brentani</name> era più complicata perché intanto si componeva di due occupazioni e due scopi ben distinti.</p>
+                <p>Da un impieguccio di poca importanza presso una società di assicurazioni, egli traeva giusto il denaro di cui la famigliuola abbisognava.</p>
+                <p>L'altra carriera era letteraria e, all'infuori di una riputazioncella, <emph>– soddisfazione di vanità più che d'ambizione –</emph> non gli rendeva 
+                nulla, ma lo affaticava ancor meno.</p>
+                <p>Da molti anni, dopo di aver pubblicato un romanzo lodatissimo dalla stampa cittadina, egli non aveva fatto nulla, per inerzia non per sfiducia.</p>
+                <p>Il romanzo, stampato su carta cattiva, era ingiallito nei magazzini del libraio, ma mentre alla sua pubblicazione <name type="person">Emilio</name> era 
+                stato detto soltanto una grande speranza per l'avvenire, ora veniva considerato come una specie di rispettabilità letteraria che 
+                contava nel piccolo bilancio artistico della città. La prima sentenza non era stata riformata, s'era evoluta.</p>
+            </div>
+
+            <div>
+                <p>Per la chiarissima coscienza ch'egli aveva della nullità della propria opera, egli non si gloriava del passato, 
+                però, come nella vita così anche nell'arte, egli credeva di trovarsi ancora sempre nel periodo di preparazione,
+                riguardandosi nel suo più segreto interno come una potente macchina geniale in costruzione, non ancora in attività.</p>
+                <p>Viveva sempre in un'aspettativa non paziente, di qualche cosa che doveva venirgli dal cervello, l'arte, di qualche cosa che doveva venirgli di fuori, 
+                la fortuna, il successo, come se l'età delle belle energie per lui non fosse tramontata.</p>
+                <p><name type="person">Angiolina</name>, una bionda dagli occhi azzurri grandi, alta e forte, ma snella e flessuosa, il volto illuminato dalla vita, 
+                un color giallo di ambra soffuso di rosa da una bella salute</p>
+            </div>
+        </body>
+        <back></back>
+    </text>
+</TEI>

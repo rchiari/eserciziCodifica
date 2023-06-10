@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "es6.dtd">
+
+<TEI>
+    <header type="intestazione">
+    Intestazione.
+    </header>
+
+    <facsimile source="facsimile">
+        Facsimile.
+    </facsimile>
+
+    <text id="testo">
+        <seg>ciao.</seg>
+    </text>
+</TEI>

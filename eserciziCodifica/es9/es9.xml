@@ -1,0 +1,47 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+
+<TEI>
+    <teiHeader>
+    </teiHeader>
+    <body>
+        <text>
+            <div id="puntatori">
+                <p>Maggiori informazioni sui servizi di <ptr target="https://www.trenitalia.com/it/informazioni/Infomobilita/notizie-infomobilita.html">Trenitalia.</ptr></p>
+            </div>
+            <div id="note">
+                <p>Maggiori informazioni sui servizi di <ptr target="https://www.trenitalia.com/it/informazioni/Infomobilita/notizie-infomobilita.html">Trenitalia.</ptr></p>
+                <note>Collegamento per il sito di Trenitalia</note>
+            </div>
+            <div id="lista">
+                <list>
+                    <head> Corsi del terzo anno </head>
+                    <item> Protocolli e servizi di rete </item>
+                    <item> Filosofia della scienza </item> 
+                    <item> Letteratura italiana contemporanea </item>
+                    <item> Codifica di testi </item>
+                </list>
+            </div>
+            <div id="glossario">
+                <list type="gloss">
+                    <head> Corsi di Informatica Umanistica </head> 
+                    <label> PPW </label>
+                    <item> Progettazione e Programmazione Web </item>
+                    <label> FTP </label>
+                    <item> Fondamenti Teorici e Programmazione </item>
+                    <label> LC </label>
+                    <item> Linguistica Computazionale </item>
+                    <label> BDD </label>
+                    <item> Basi Di Dati </item>
+                </list>
+            </div>
+            <div id="namers">
+                <p> Ieri ho visto <rs type="person">Mattia</rs> che
+                andava a <name type="place">Milano</name></p>
+            </div>
+            <div id="term">
+                <p> Recentemente Luigi ha prenotato un <term xml:id="ECG" 
+                rend="italic">elettrocardiogramma</term></p>
+            </div>
+        </text>
+    </body>
+</TEI>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+    file: esercizio-doc-da-validare.xml
+    nome: Riccardo Chiari
+    data: 03/04/2023
+-->
+
+<!-- corpo del documento XML-->
+<elementoRadice>
+    <elementoFiglio>
+        <elementoAnnidato>
+        </elementoAnnidato>
+    </elementoFiglio>
+    <elementoFiglio>
+        <elementoAnnidato>
+            <elementoAnnidato>
+            <elementoFiglio></elementoFiglio> <!-- elementoFiglio veniva aperto dentro elementoAnnidato e veniva chiuso fuori elementoAnnidato -->
+            </elementoAnnidato> <!-- elementoannidato chiude elementoannidato dentro elementoannidato -->    
+        </elementoAnnidato> <!-- elementoannidato chiude elementoannidato che contiene elementofiglio ed elementoannidato-->
+        <elementoFiglio>
+            <elementoFiglio2> <!-- elementoFiglio2 è figlio di elementoFiglio-->
+            </elementoFiglio2>
+            <elementoFiglio3> <!-- elementoFiglio3 è fratello di elementoFiglio2 e figlio di elementoFiglio-->
+            </elementoFiglio3>
+        </elementoFiglio>
+    </elementoFiglio>
+</elementoRadice>
+
+<!-- epilogo -->

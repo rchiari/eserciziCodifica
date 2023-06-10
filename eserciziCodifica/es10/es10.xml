@@ -1,0 +1,36 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+
+<!-- codifica articolo di una rivista -->
+
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <biblStruct id="HomoSap1">
+            <monogr>
+                    <author> Franco Capone </author>
+                    <title level="j"> Storia Homo sapiens: le tacche su 
+                    un osso dimostrano come si confezionavano i vestiti nella preistoria</title>
+                <imprint>
+                    <pubPlace> Focus </pubPlace>
+                    <date> 2023 </date>
+                    <biblScope unit="pages">1</biblScope>
+                </imprint>
+            </monogr>
+            </biblStruct>
+        </fileDesc>
+    </teiHeader>
+
+<!-- codifica cartolina -->
+
+    <text>
+        <body>
+            <div>
+                <p> Come possiamo vedere in foto:</p>
+                <media id="photo"/>
+                <head> Sole </head>
+                <figDesc> Immagine di un sole </figDesc>
+                <graphic url="sole.png"/>
+            </div>
+        </body>
+    </text>
+</TEI>
